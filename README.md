@@ -24,4 +24,4 @@
 
 環境の破壊
 
-`$ $ docker-compose down --rmi all --volumes --remove-orphans`
+`$ docker-compose down --rmi all --volumes --remove-orphans`
