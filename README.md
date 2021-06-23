@@ -21,3 +21,7 @@
 コンテナを破棄
 
 `$ docker-compose down`
+
+環境の破壊
+
+`$ $ docker-compose down --rmi all --volumes --remove-orphans`
